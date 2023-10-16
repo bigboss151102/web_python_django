@@ -1,0 +1,63 @@
+body{
+    background: #60dbd3;
+}
+label{
+    color: white;
+    font-size: 20px;
+    font-family: 'Antonio', sans-serif;
+
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: 'Antonio', sans-serif;
+
+}
+
+h2{
+    text-align: center;
+    color: white;
+    margin-bottom: 50px;
+    font-family: 'Antonio', sans-serif;
+
+}
+
+.form{
+    text-align: center;
+}
+
+#p1{
+    text-align: center;
+    color: white;
+    padding: 25px;
+    margin: 90px;
+    font-size: 25px;
+    font-family: 'Antonio', sans-serif;
+
+}
+#p2{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin: 90px;
+    margin-bottom: 50px;
+    font-family: 'Antonio', sans-serif;
+
+}
+
+.box{
+    background: #0b091f;
+    margin-top: 0px;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+#button{
+    border-radius: 25px;
+    padding: 20px;
+    background-color: #cf8c21;
+    font-size: 18px;
+    font-family: 'Antonio', sans-serif;
+
+}

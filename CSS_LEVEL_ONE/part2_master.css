@@ -1,0 +1,20 @@
+body{
+    background: url(https://img.freepik.com/free-photo/tropical-beach_74190-188.jpg?w=2000);
+    background-repeat: no-repeat;
+}
+
+div{
+    background: blue;
+    border-color: orange;
+    border-width: 4px;
+    border-style: double;
+}
+
+p{
+    color: yellow;
+}
+
+span{
+    background: red;
+    color: black;
+}

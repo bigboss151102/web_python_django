@@ -1,0 +1,32 @@
+body{
+    background-color: #60dbd3;
+}
+
+.head_title{
+    border: 1px solid black;
+}
+.p_line1{
+    background: #e3e374;
+}
+
+.head_title_line2{
+    color: #9657a1;
+}
+
+.text_area1{
+    border: 5px solid gray;
+}
+
+.input_form{
+    border: 2px solid rgb(144,0,0);
+}
+
+.tex_area2{
+    background-color: blue;
+    border: 10px dashed yellow;
+}
+
+#itemone{
+    text-decoration: overline;
+    color: purple;
+}
